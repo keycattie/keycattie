@@ -1,8 +1,9 @@
 # Music
 ### Released
-- **Take Your Time** <small>*remix*</small> (Original: Pascal Michael Stiefel -- Peace and Tranquillity)
-[Music video](https://www.youtube.com/watch?v=aEy2o1jxk_I) <small>*YouTube*</small> | [Audio release](https://www.jamendo.com/track/1629201/patch-plot-take-your-time-peace-and-tranquility-remixed) <small>*Jamendo*</small>
-<small>License: CC0 Public Domain; Fallback: CC BY 4.0</small>
+Title | Tags | Links | Info | License
+---:| --- | --- | --- |:---
+**Take Your Time** | <small>*remix*</small> | [Music video](https://www.youtube.com/watch?v=aEy2o1jxk_I) <small>*YouTube*</small>; [Audio release](https://www.jamendo.com/track/1629201/patch-plot-take-your-time-peace-and-tranquility-remixed) <small>*Jamendo*</small> | *Original:* Pascal Michael Stiefel -- Peace and Tranquillity | <small>CC0 Public Domain</small>
+
 - **Just**
 [Audio release](https://www.jamendo.com/track/1621703/patch-plot-just) <small>*Jamendo*</small>
 <small>License: CC0 Public Domain; Fallback: CC BY 4.0</small>
