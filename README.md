@@ -17,6 +17,7 @@ Unfortunate | *old* | [Release](https://soundcloud.com/openoutlets/dmitriy-zakat
 | **Unreleased** |
 Public demo folder | | [Folder](https://mega.nz/folder/ng5R1KBB#QTdM8PfNLq7wujo2G7cHUg) *Mega NZ* | Includes folders with possible <br/>upcoming album titles | Personal<sup>[2](#demonote)</sup>
 VK playlists | | [#1 (Refined)](https://vk.com/music/playlist/211522269_168_41d817094e442d56e7) *VK*<br/>[#2 (Edits)](https://vk.com/music/playlist/211522269_163_a6172d38e49bea71a2) *VK*<br/>[#3 (Various Junk)](https://vk.com/music/playlist/211522269_75_542f6197e2c60ecb16) *VK* | | Personal<sup>[2](#demonote)</sup>
+
 <sup>[1](#CC0note)</sup>
 <a name="CC0note">CC0</a>: *Public Domain; Due to the way Youtube and Soundcloud handle licensing, this might fallback to their standard CC Licenses, exclusive to the platform.*<br/>
 <sup>[2](#demonote)</sup>
